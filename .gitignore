@@ -172,5 +172,10 @@ cython_debug/
 # Version
 /wsinfer/_version.py
 
+#QuPath Project
+QuPathProject/
+*.backup
+/wsinfer/qupath.py
+
 # Extras
 .DS_Store
